@@ -1,0 +1,14 @@
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\bin\Debug\XamlApp.exe.config
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\obj\Debug\XamlApp.csprojResolveAssemblyReference.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\obj\Debug\MainWindow.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\obj\Debug\App.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\obj\Debug\XamlApp_MarkupCompile.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\obj\Debug\XamlApp_MarkupCompile.lref
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\bin\Debug\XamlApp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\bin\Debug\XamlApp.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\obj\Debug\MainWindow.baml
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\obj\Debug\XamlApp.g.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\obj\Debug\XamlApp.Properties.Resources.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\obj\Debug\XamlApp.csproj.GenerateResource.Cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\obj\Debug\XamlApp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\XamlApp\XamlApp\obj\Debug\XamlApp.pdb

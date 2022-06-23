@@ -1,0 +1,13 @@
+﻿<Application x:Class="LifecycleApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:LifecycleApp"
+             StartupUri="MainWindow.xaml" 
+             Startup="AppStart">
+
+    <Application.Resources>
+    <Style TargetType="Grid">
+        <Setter Property="Background" Value="Gray" />
+    </Style>
+    </Application.Resources>
+</Application>

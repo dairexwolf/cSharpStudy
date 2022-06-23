@@ -1,0 +1,287 @@
+c:\users\vyatkin\documents\visual studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe.config
+c:\users\vyatkin\documents\visual studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\bin\Debug\WpfDiplomApp.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\obj\Debug\MainWindow.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\obj\Debug\App.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.lref
+c:\users\vyatkin\documents\visual studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\obj\Debug\MainWindow.baml
+c:\users\vyatkin\documents\visual studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\obj\Debug\WpfDiplomApp.g.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\obj\Debug\WpfDiplomApp.Properties.Resources.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.GenerateResource.Cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\obj\Debug\WpfDiplomApp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\obj\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp\WpfDiplomApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe.config
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\obj\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\obj\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\bin\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\obj\Debug\WpfDiplomApp.csprojResolveAssemblyReference.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\obj\Debug\MainWindow.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\obj\Debug\App.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.lref
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\obj\Debug\MainWindow.baml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\obj\Debug\WpfDiplomApp.g.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\obj\Debug\WpfDiplomApp.Properties.Resources.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия (2)\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.GenerateResource.Cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe.config
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\obj\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\obj\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\bin\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\obj\Debug\WpfDiplomApp.csprojResolveAssemblyReference.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\obj\Debug\MainWindow.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\obj\Debug\App.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.lref
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\obj\Debug\MainWindow.baml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\obj\Debug\WpfDiplomApp.g.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\obj\Debug\WpfDiplomApp.Properties.Resources.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 3\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.GenerateResource.Cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe.config
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\obj\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\obj\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\bin\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\obj\Debug\WpfDiplomApp.csprojResolveAssemblyReference.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\obj\Debug\MainWindow.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\obj\Debug\App.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.lref
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\obj\Debug\MainWindow.baml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\obj\Debug\WpfDiplomApp.g.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\obj\Debug\WpfDiplomApp.Properties.Resources.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 4\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.GenerateResource.Cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe.config
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\bin\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp.csprojResolveAssemblyReference.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\MainWindow.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\App.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.lref
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\MainWindow.baml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp.g.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp.Properties.Resources.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.GenerateResource.Cache
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp.csprojAssemblyReference.cache
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\MainWindow.g.cs
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\App.g.cs
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.cache
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.lref
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp.exe
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp.pdb
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe.config
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\bin\Debug\WpfDiplomApp.pdb
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\MainWindow.baml
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp.g.resources
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp.Properties.Resources.resources
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.GenerateResource.cache
+C:\Users\TacWerewolf\source\repos\Projects\WpfDiplomApp — копия 5\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.CoreCompileInputs.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe.config
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\obj\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\obj\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\bin\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\obj\Debug\WpfDiplomApp.csprojResolveAssemblyReference.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\obj\Debug\MainWindow.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\obj\Debug\App.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.lref
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\obj\Debug\MainWindow.baml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\obj\Debug\WpfDiplomApp.g.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\obj\Debug\WpfDiplomApp.Properties.Resources.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.GenerateResource.Cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\bin\Debug\EntityFramework.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\bin\Debug\EntityFramework.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 6\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe.config
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\obj\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\obj\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\bin\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\bin\Debug\EntityFramework.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\bin\Debug\EntityFramework.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\obj\Debug\WpfDiplomApp.csprojResolveAssemblyReference.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\obj\Debug\MainWindow.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\obj\Debug\App.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.lref
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\obj\Debug\MainWindow.baml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\obj\Debug\WpfDiplomApp.g.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\obj\Debug\WpfDiplomApp.Properties.Resources.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 7\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.GenerateResource.Cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe.config
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\EntityFramework.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\EntityFramework.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.csprojResolveAssemblyReference.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\MainWindow.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\App.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.lref
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\MainWindow.baml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.g.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.Properties.Resources.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.GenerateResource.Cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\Analysis.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\LiveCharts.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\LiveCharts.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\LiveCharts.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\Analysis.baml
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe.config
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\WpfDiplomApp.pdb
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\EntityFramework.dll
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\LiveCharts.dll
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\EntityFramework.xml
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\LiveCharts.pdb
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\LiveCharts.xml
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\Analysis.g.cs
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\MainWindow.g.cs
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\App.g.cs
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.cache
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.lref
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\Analysis.baml
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\MainWindow.baml
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.g.resources
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.Properties.Resources.resources
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.GenerateResource.cache
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.CoreCompileInputs.cache
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.CopyComplete
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.exe
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.pdb
+C:\Users\TacWerewolf\source\repos\WpfDiplomApp — копия 8\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.AssemblyReference.cache
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe.config
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\WpfDiplomApp.pdb
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\EntityFramework.dll
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.dll
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.dll
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\EntityFramework.xml
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.pdb
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.xml
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.pdb
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.xml
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.AssemblyReference.cache
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\Analysis.g.cs
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\MainWindow.g.cs
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\App.g.cs
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.cache
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.lref
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\Analysis.baml
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\MainWindow.baml
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.g.resources
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.Properties.Resources.resources
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.GenerateResource.cache
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.CoreCompileInputs.cache
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.CopyComplete
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.exe
+D:\Учебное\C# мое\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.pdb
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe.config
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\WpfDiplomApp.pdb
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\EntityFramework.dll
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.dll
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.Designer.dll
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.dll
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.XamlDom.dll
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.dll
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.dll
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\EntityFramework.xml
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.xml
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.pdb
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.xml
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.Designer.pdb
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.Designer.xml
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.XamlDom.pdb
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.XamlDom.xml
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.pdb
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.xml
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.pdb
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.xml
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.csprojAssemblyReference.cache
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\Analysis.g.cs
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\MainWindow.g.cs
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\App.g.cs
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.cache
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.lref
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\Analysis.baml
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\MainWindow.baml
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.g.resources
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.Properties.Resources.resources
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.GenerateResource.cache
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.CoreCompileInputs.cache
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.CopyComplete
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.exe
+M:\mine things\Учебное\Диплом\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe.config
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\WpfDiplomApp.exe
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\WpfDiplomApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\EntityFramework.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.Designer.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.XamlDom.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\EntityFramework.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.Designer.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.Designer.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.XamlDom.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\ICSharpCode.WpfDesign.XamlDom.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.csprojResolveAssemblyReference.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\Analysis.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\MainWindow.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\App.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp_MarkupCompile.lref
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\Analysis.baml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\MainWindow.baml
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.g.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.Properties.Resources.resources
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\WpfDiplomApp — копия 9\WpfDiplomApp\obj\Debug\WpfDiplomApp.csproj.GenerateResource.Cache

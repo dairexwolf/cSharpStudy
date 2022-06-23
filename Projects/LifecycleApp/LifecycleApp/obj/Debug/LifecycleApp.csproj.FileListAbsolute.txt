@@ -1,0 +1,15 @@
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\bin\Debug\LifecycleApp.exe.config
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\bin\Debug\LifecycleApp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\bin\Debug\LifecycleApp.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.csprojResolveAssemblyReference.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\obj\Debug\MainWindow.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\obj\Debug\App.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp_MarkupCompile.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp_MarkupCompile.lref
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\obj\Debug\MainWindow.baml
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.g.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.Properties.Resources.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.csproj.GenerateResource.Cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\LifecycleApp\LifecycleApp\obj\Debug\App.baml

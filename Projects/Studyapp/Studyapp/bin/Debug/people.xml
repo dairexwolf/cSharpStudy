@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>Duardin</Name>
+    <Age>121</Age>
+    <Company>
+      <Name>Demonoebateli</Name>
+    </Company>
+  </Person>
+  <Person>
+    <Name>Neit</Name>
+    <Age>510</Age>
+    <Company>
+      <Name>Mage Guild</Name>
+    </Company>
+  </Person>
+</ArrayOfPerson>

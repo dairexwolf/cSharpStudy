@@ -1,0 +1,14 @@
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\bin\Debug\CommandsApplication.exe.config
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\bin\Debug\CommandsApplication.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\bin\Debug\CommandsApplication.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\obj\Debug\MainWindow.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\obj\Debug\App.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\obj\Debug\CommandsApplication_MarkupCompile.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\obj\Debug\CommandsApplication_MarkupCompile.lref
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\obj\Debug\MainWindow.baml
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\obj\Debug\CommandsApplication.g.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\obj\Debug\CommandsApplication.Properties.Resources.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\obj\Debug\CommandsApplication.csproj.GenerateResource.Cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\obj\Debug\CommandsApplication.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\obj\Debug\CommandsApplication.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\CommandsApplication\CommandsApplication\obj\Debug\CommandsApplication.csprojResolveAssemblyReference.cache

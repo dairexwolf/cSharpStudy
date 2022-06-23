@@ -1,0 +1,104 @@
+<Window x:Class="WpfApp.MainWindow"
+        // Так, пространство имен http://schemas.microsoft.com/winfx/2006/xaml/presentation содержит описание и определение большинства элементов управления. Так как является пространством имен по умолчанию, то объявляется без всяких префиксов.
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		//  это пространство имен, которое определяет некоторые свойства XAML, например свойство Name или Key. Используемый префикс x в определении xmlns:x означает, что те свойства элементов, которые заключены в этом пространстве имен, будут использоваться с префиксом x - x:Name или x:Key. Это же пространство имен используется уже в первой строчке x:Class="XamlApp.MainWindow" - здесь создается новый класс MainWindow и соответствующий ему файл кода, куда будет прописываться логика для данного окна приложения.
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		// предоставляет поддержку атрибутов в режиме дизайнера. Это пространство имен преимущественно предназначено для другого инструмента по созданию дизайна на XAML - Microsoft Expression Blend
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+		// обеспечивает режим совместимости разметок XAML. В определении объекта Window двумя строчками ниже можно найти его применение: mc:Ignorable="d"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		// пространство имен текущего проекта. Так как в моем случае проект называется WpfApp, то простраство имен называется аналогично. И через префикс local я смогу получить в XAML различные объекты, которые я определил в проекте.
+        xmlns:local="clr-namespace:WpfApp"
+        // Это выражение позволяет игнорировать парсерам XAML во время выполнения приложения дизайнерские атрибуты из пространства имен с префиксом d
+		mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Нажми меня" FontSize="22" Width="200" Height="80" Click="Button_Click" />
+    </Grid>
+</Window>
+
+// Важно понимать, что эти пространства имен не эквивалентны тем пространствам имен, которые подключаются при помощи директивы using в c#. Так, например, http://schemas.microsoft.com/winfx/2006/xaml/presentation подключает в проект следующие пространства имен:
+
+System.Windows
+
+System.Windows.Automation
+
+System.Windows.Controls
+
+System.Windows.Controls.Primitives
+
+System.Windows.Data
+
+System.Windows.Documents
+
+System.Windows.Forms.Integration
+
+System.Windows.Ink
+
+System.Windows.Input
+
+System.Windows.Media
+
+System.Windows.Media.Animation
+
+System.Windows.Media.Effects
+
+System.Windows.Media.Imaging
+
+System.Windows.Media.Media3D
+
+System.Windows.Media.TextFormatting
+
+System.Windows.Navigation
+
+System.Windows.Shapes
+
+System.Windows.Shell
+
+XAML предлагает очень простую и ясную схему определения различных элементов и их свойств. Каждый элемент, как и любой элемент XML, должен иметь открытый и закрытый тег, как в случае с элементом Window:
+<Window></Window>
+
+Либо элемент может иметь сокращенню форму с закрывающим слешем в конце, наподобие:
+<Window />
+
+Но в отличие от элементов xml каждый элемент в XAML соответствует определенному классу C#. Например, элемент Button соответствует классу System.Windows.Controls.Button. А свойства этого класса соответствуют атрибутам элемента Button.
+
+
+Например, добавим кнопку в создаваемую по умолчанию разметку окна:
+
+<Window x:Class="XamlApp.MainWindow" // Элемент самого высшего уровня
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XamlApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid x:Name="grid1"> // вложенный элемент Grid - контейнер для других элементов
+        <Button 
+		x:Name="button1"  // атрибут x:Name берется в данном случае из пространства имен "http://schemas.microsoft.com/winfx/2006/xaml", которое сопоставляется с префиксом x. 
+		Width="100" Height="30" Content="Кнопка" // А остальные атрибуты не используют префиксы, поэтому берутся из основного пространства имен "http://schemas.microsoft.com/winfx/2006/xaml/presentation".
+		/> //  в общем то кнопка
+    </Grid>
+</Window>
+
+
+Специальные символы
+При определении интерфейса в XAML мы можем столкнуться с некоторыми ограничениями. В частости, мы не можем использовать специальные символы, такие как знак амперсанда &, кавычки " и угловые скобки < и >. Например, мы хотим, чтобы текст кнопки был следующим: <"Hello">. У кнопки есть свойство Content, которое задает содержимое кнопки. И можно предположить, что нам надо написать так:
+<Button Content="<"Hello">" />
+
+Но такой вариант ошибочен и даже не скомпилирутся. В этом случае нам надо использовать специальные коды символов:
+
+Символ	Код
+<		&lt;
+>		&gt;
+&		&amp;
+"		&quot;
+Например:
+<Button Content="&lt;&quot;Hello&quot;&gt;" />
+
+Здесь свойство Content задается неявно в виде содержимого между тегами <Button>....</Button>. Но несмотря на то, что у нас несколько пробелов между словами "Hello" и "World", XAML по умолчанию будет убирать все эти пробелы. И чтобы сохранить пробелы, нам надо использовать атрибут xml:space="preserve"
+
+<Button xml:space="preserve">
+    Hello         World
+</Button>

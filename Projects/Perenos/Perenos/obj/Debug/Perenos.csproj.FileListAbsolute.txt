@@ -1,0 +1,6 @@
+c:\users\vyatkin\documents\visual studio 2015\Projects\Perenos\Perenos\bin\Debug\Perenos.exe.config
+c:\users\vyatkin\documents\visual studio 2015\Projects\Perenos\Perenos\obj\Debug\Perenos.csprojResolveAssemblyReference.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\Perenos\Perenos\bin\Debug\Perenos.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\Perenos\Perenos\bin\Debug\Perenos.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\Perenos\Perenos\obj\Debug\Perenos.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\Perenos\Perenos\obj\Debug\Perenos.pdb

@@ -1,0 +1,6 @@
+c:\users\vyatkin\documents\visual studio 2015\Projects\GeneratorTest\GeneratorTest\bin\Debug\GeneratorTest.exe.config
+c:\users\vyatkin\documents\visual studio 2015\Projects\GeneratorTest\GeneratorTest\bin\Debug\GeneratorTest.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\GeneratorTest\GeneratorTest\bin\Debug\GeneratorTest.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\GeneratorTest\GeneratorTest\obj\Debug\GeneratorTest.csprojResolveAssemblyReference.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\GeneratorTest\GeneratorTest\obj\Debug\GeneratorTest.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\GeneratorTest\GeneratorTest\obj\Debug\GeneratorTest.pdb

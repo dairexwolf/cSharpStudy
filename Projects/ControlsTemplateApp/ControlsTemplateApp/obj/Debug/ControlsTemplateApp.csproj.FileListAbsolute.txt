@@ -1,0 +1,14 @@
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\bin\Debug\ControlsTemplateApp.exe.config
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\bin\Debug\ControlsTemplateApp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\bin\Debug\ControlsTemplateApp.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\obj\Debug\ControlsTemplateApp.csprojResolveAssemblyReference.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\obj\Debug\MainWindow.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\obj\Debug\App.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\obj\Debug\ControlsTemplateApp_MarkupCompile.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\obj\Debug\ControlsTemplateApp_MarkupCompile.lref
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\obj\Debug\MainWindow.baml
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\obj\Debug\ControlsTemplateApp.g.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\obj\Debug\ControlsTemplateApp.Properties.Resources.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\obj\Debug\ControlsTemplateApp.csproj.GenerateResource.Cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\obj\Debug\ControlsTemplateApp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\ControlsTemplateApp\ControlsTemplateApp\obj\Debug\ControlsTemplateApp.pdb

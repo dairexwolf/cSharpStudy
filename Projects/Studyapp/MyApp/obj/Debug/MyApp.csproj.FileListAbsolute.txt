@@ -1,0 +1,5 @@
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\Studyapp\MyApp\bin\Debug\MyApp.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\Studyapp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\Studyapp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\Studyapp\MyApp\obj\Debug\MyApp.dll
+C:\Users\vyatkin\Documents\Visual Studio 2015\Projects\Studyapp\MyApp\obj\Debug\MyApp.pdb

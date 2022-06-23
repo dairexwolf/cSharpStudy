@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Property>
+    <ID>P01</ID>
+    <Name>Стол деревянный</Name>
+    <Company>ДНС</Company>
+    <Responsible>Иванов И.А.</Responsible>
+    <Price>7000</Price>
+    <ObjectType>Стол</ObjectType>
+    <Find>true</Find>
+  </Property>
+  <Property>
+    <ID>P02</ID>
+    <Name>Стул деревянный</Name>
+    <Company>ПВА</Company>
+    <Responsible>Иванов И.А.</Responsible>
+    <Price>3000</Price>
+    <ObjectType>Стул</ObjectType>
+    <Find>true</Find>
+  </Property>
+  <Property>
+    <ID>P03</ID>
+    <Name>Стул деревянный</Name>
+    <Company>Шоколад</Company>
+    <Responsible>Иванов И.А.</Responsible>
+    <Price>3000</Price>
+    <ObjectType>Стул</ObjectType>
+    <Find>true</Find>
+  </Property>
+</ArrayOfProperty>

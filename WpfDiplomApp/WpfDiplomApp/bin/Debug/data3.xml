@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Property>
+    <ID>C01</ID>
+    <Name>Компьютер учебный</Name>
+    <Company>ЗАО е2е4</Company>
+    <Responsible>Иваныч В.Д.</Responsible>
+    <Price>37000</Price>
+    <ObjectType>Компьютер</ObjectType>
+  </Property>
+  <Property>
+    <ID>C02</ID>
+    <Name>Компьютер учебный</Name>
+    <Company>ЗАО е2е4</Company>
+    <Responsible>Иваныч В.Д.</Responsible>
+    <Price>37000</Price>
+    <ObjectType>Компьютер</ObjectType>
+  </Property>
+  <Property>
+    <ID>P01</ID>
+    <Name>Стол с металлическим каркасом</Name>
+    <Company>Фабрика мебели</Company>
+    <Responsible>Сергеич В.А.</Responsible>
+    <Price>9999</Price>
+    <ObjectType>Стол</ObjectType>
+  </Property>
+  <Property>
+    <ID>P02</ID>
+    <Name>Стул пластиковый</Name>
+    <Company>ООО ДНС</Company>
+    <Responsible>Сергеич В.А.</Responsible>
+    <Price>1700</Price>
+    <ObjectType>Стул</ObjectType>
+  </Property>
+</ArrayOfProperty>

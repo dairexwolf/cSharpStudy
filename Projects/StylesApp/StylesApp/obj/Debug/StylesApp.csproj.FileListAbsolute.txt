@@ -1,0 +1,16 @@
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\bin\Debug\StylesApp.exe.config
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\bin\Debug\StylesApp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\bin\Debug\StylesApp.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\obj\Debug\StylesApp.csprojResolveAssemblyReference.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\obj\Debug\MainWindow.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\obj\Debug\App.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\obj\Debug\StylesApp_MarkupCompile.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\obj\Debug\StylesApp_MarkupCompile.lref
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\obj\Debug\MainWindow.baml
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\obj\Debug\StylesApp.g.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\obj\Debug\StylesApp.Properties.Resources.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\obj\Debug\StylesApp.csproj.GenerateResource.Cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\obj\Debug\StylesApp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\obj\Debug\StylesApp.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\obj\Debug\dark.baml
+c:\users\vyatkin\documents\visual studio 2015\Projects\StylesApp\StylesApp\obj\Debug\light.baml

@@ -1,0 +1,14 @@
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\bin\Debug\EventsApp.exe.config
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\obj\Debug\EventsApp.csprojResolveAssemblyReference.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\obj\Debug\MainWindow.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\obj\Debug\App.g.cs
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\obj\Debug\EventsApp_MarkupCompile.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\obj\Debug\EventsApp_MarkupCompile.lref
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\bin\Debug\EventsApp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\bin\Debug\EventsApp.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\obj\Debug\MainWindow.baml
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\obj\Debug\EventsApp.g.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\obj\Debug\EventsApp.Properties.Resources.resources
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\obj\Debug\EventsApp.csproj.GenerateResource.Cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\obj\Debug\EventsApp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\EventsApp\EventsApp\obj\Debug\EventsApp.pdb

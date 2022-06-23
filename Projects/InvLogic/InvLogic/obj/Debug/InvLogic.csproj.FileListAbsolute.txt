@@ -1,0 +1,6 @@
+c:\users\vyatkin\documents\visual studio 2015\Projects\InvLogic\InvLogic\bin\Debug\InvLogic.exe.config
+c:\users\vyatkin\documents\visual studio 2015\Projects\InvLogic\InvLogic\bin\Debug\InvLogic.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\InvLogic\InvLogic\bin\Debug\InvLogic.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\InvLogic\InvLogic\obj\Debug\InvLogic.csprojResolveAssemblyReference.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\InvLogic\InvLogic\obj\Debug\InvLogic.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\InvLogic\InvLogic\obj\Debug\InvLogic.pdb

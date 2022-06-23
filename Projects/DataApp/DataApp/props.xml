@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<propertys>
+  <property>
+    <ID>P01</ID>
+    <Name>Стол</Name>
+    <Price>5000</Price>
+    <Company>ОАО \"Столы блин-блинский\"</Company>
+  </property>
+  <property>
+    <ID>P02</ID>
+    <Name>Стул</Name>
+    <Price>2000</Price>
+    <Company>ОАО \"Столы блин-блинский\"</Company>
+  </property>
+  <property>
+    <ID>P03</ID>
+    <Name>Телевизор LG10500</Name>
+    <Price>25000</Price>
+    <Company>LG</Company>
+  </property>
+  <property>
+    <ID>P04</ID>
+    <Name>Говно за 100 рублей</Name>
+    <Price>100</Price>
+    <Company>ОАО \"Столы блин-блинский\"</Company>
+  </property>
+  <property>
+    <ID>P05</ID>
+    <Name>Машина для директора</Name>
+    <Price>3425000</Price>
+    <Company>Mercedes</Company>
+  </property>
+  <property>
+    <ID>P06</ID>
+    <Name>Ne Pivo</Name>
+    <Price>210</Price>
+    <Company>ЗАО \"Не пивоварный завод\"</Company>
+  </property>
+</propertys>

@@ -1,0 +1,6 @@
+c:\users\vyatkin\documents\visual studio 2015\Projects\Studyapp\Studyapp\bin\Debug\Studyapp.exe.config
+c:\users\vyatkin\documents\visual studio 2015\Projects\Studyapp\Studyapp\obj\Debug\Studyapp.csprojResolveAssemblyReference.cache
+c:\users\vyatkin\documents\visual studio 2015\Projects\Studyapp\Studyapp\bin\Debug\Studyapp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\Studyapp\Studyapp\bin\Debug\Studyapp.pdb
+c:\users\vyatkin\documents\visual studio 2015\Projects\Studyapp\Studyapp\obj\Debug\Studyapp.exe
+c:\users\vyatkin\documents\visual studio 2015\Projects\Studyapp\Studyapp\obj\Debug\Studyapp.pdb

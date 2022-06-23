@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user name="Billy">
+    <company>Dungeon</company>
+    <age>56</age>
+  </user>
+  <user name="Van">
+    <company>Full Dungeon</company>
+    <age>41</age>
+  </user>
+  <user name="RipSkinner">
+    <company>Gachibass</company>
+    <age>30</age>
+  </user>
+  <user name="Mmmm">
+    <company>Niko-niko-doga</company>
+    <age>33</age>
+  </user>
+</users>
